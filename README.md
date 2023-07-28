@@ -5,5 +5,5 @@
   - [osTicket: Prerequisites and Installation](https://github.com/auwalkerIT/OSTicket-Prereqs)
 
 
-<b>Microsoft Active Directory</b>
+- <b>Microsoft Active Directory</b>
   - [Utilizing Active Directory](https://github.com/auwalkerIT/Utilizing-Active-Directory)
