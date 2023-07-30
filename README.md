@@ -10,4 +10,4 @@
 
 
 - <b>ManageEngine ServiceDesk Plus (Help Desk Ticketing System)</b>
-- [Ticketing Systems Exercise: Open and Close a Ticket](https://github.com/auwalkerIT/Ticketing-Systems-Training-with-ManageEngine-ServiceDesk-Plus)
+  - [Ticketing Systems Exercise: Open and Close a Ticket](https://github.com/auwalkerIT/Ticketing-Systems-Training-with-ManageEngine-ServiceDesk-Plus)
